@@ -1,5 +1,5 @@
 {
   "_base": "https://raw.githubusercontent.com/IkeIkizyan/trovy_samples/main/",
-  "oud": ["oud/oud_00.wav", "oud/oud_01.wav"],
+  "oud": ["oud/oud_00.wav", "oud/oud_01.wav", "oud/oud_02.wav"],
   "perc": ["perc/Soul Pride EP 1-146.wav", "perc/Soul Pride EP 2-146.wav"]
 }
